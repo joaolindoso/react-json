@@ -9,3 +9,4 @@ Os arquivos presentes neste repositório são apenas:
 - Versão do ReactJS utilizada: 18.0.0
 
 Agradecimentos ao canal WebStylePress. Siga-os no Youtube para mais exemplos! 
+Link do canal com o exemplo compartilhado: https://www.youtube.com/watch?v=aJgAwjP20RY
