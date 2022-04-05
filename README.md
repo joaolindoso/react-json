@@ -5,5 +5,6 @@ Os arquivos presentes neste repositório são apenas:
 - App.js (arquivo da aplicação)
 - data.json (arquivo de dados usado para leitura)
 - Nota: estes arquivos devem ficar na pasta 'src' do projeto
+- Versão do ReactJS utilizada: 18.0.0
 
 Agradecimentos ao canal WebStylePress. Siga-os no Youtube para mais exemplos! 
